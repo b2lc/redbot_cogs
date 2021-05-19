@@ -108,8 +108,8 @@ class Tavernier(commands.Cog):
                 modifiers = "(avec " + supDices + " dé(s) de bonus)"
                 action =args.split(' ', 2)[2]
                 roll = str(nbd)+"d6kh1"
-         else:
-                if (modeStr == "malus") or (modeStr == "m"):
+            else:
+                    if (modeStr == "malus") or (modeStr == "m"):
                     nbd = nbd + int(supDices)
                     modifiers = "(avec " + supDices + " dé(s) de malus)"
                     action = args.split(' ', 2)[2]
