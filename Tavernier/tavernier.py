@@ -89,7 +89,7 @@ class Tavernier(commands.Cog):
          - jet avec 2 dés de malus : [p]fu malus 2 Esquiver le coup d'épée
          
         Il est possible d'abréger "bonus" en "b" et "malus" en "m". Exemple                                                                                                             
-         - [p]fu b 1 Sauter                                                                                                                                                              
+         - [p]fu b 1 Sauter         
        """
         try:
             dr = pyhedrals.DiceRoller(
