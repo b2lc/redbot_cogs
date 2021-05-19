@@ -1,0 +1,9 @@
+{
+    "author" : ["Cyrille Baudouin (Minipen#4223)"],
+    "install_msg" : "Some (french) cogs. Feel free to use them and ask for translation or support (create an issue on github or pm me !)",
+    "name" : "B2LC_cogs",
+    "short" : "Cogs for FU RPG, Nexcloud communication, and other things",
+    "description" : "Various cogs that launch dices FU RPG, communicate with your Nexcloud or other things.\n",
+    "min_python_version": [3, 7, 2],
+	"tags": []
+}

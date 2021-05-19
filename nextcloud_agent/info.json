@@ -1,0 +1,18 @@
+{
+ "name": "nexcloud_agent",
+ "author": [
+        "Cyrille Baudouin (Minipen#4223)"
+    ],
+    "short": "",
+    "description": "Some commands to communicate with a nexcloud instance.",
+    "install_msg": "Uses nextcloud python API (not included).",
+    "requirements": [
+        "nexcloud"
+    ],
+    "tags": [
+        "custom",
+        "nextcloud",
+        "utility"
+    ],
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users, BUT some data can be stored by the nextcloud instance.\n Code have been tested, but can delete data on Nexcloud if not use correctly, so use at your own risk."
+}
