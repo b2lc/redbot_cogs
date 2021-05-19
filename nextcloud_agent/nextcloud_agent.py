@@ -6,7 +6,7 @@ from redbot.core import Config, checks, commands
 from redbot.core.utils.chat_formatting import error, question
 from redbot.core.utils.predicates import MessagePredicate
 
-from nextcloud import NextCloud
+#from nextcloud import NextCloud
 
 from .pcx_lib import SettingDisplay, checkmark
 
