@@ -7,8 +7,7 @@
     "description": "Some commands to communicate with a nexcloud instance.",
     "install_msg": "Uses nextcloud python API (not included).",
     "requirements": [
-        "pytest",
-        "request"
+        "pytest"
     ],
     "tags": [
         "custom",
