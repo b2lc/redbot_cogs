@@ -1,0 +1,19 @@
+{
+ "name": "Tavernier",
+ "author": [
+        "Cyrille Baudouin (Minipen#4223)"
+    ],
+    "short": "Tavernier bot main custom commands",
+    "description": "RPG gaming resources. Roll some dices (FU). ",
+    "install_msg": "Uses pyhedrals to roll dice.",
+    "requirements": [
+        "pyhedrals"
+    ],
+    "tags": [
+        "custom",
+        "tavernier",
+        "rpg",
+        "utility"
+    ],
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users."
+}
